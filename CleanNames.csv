@@ -1,0 +1,9 @@
+DynamicsColumnName,CleanedColumnName
+actualclosedate,Actual Close Date
+actualvalue,Actual Value
+estimatedclosedate,Est Close Date
+estimatedvalue,Est Value
+mm_accountnumber,Account Number
+mm_franchiseid,Franchise ID
+name,Opportunity Name
+mm_accessoriesamount,Accessories
