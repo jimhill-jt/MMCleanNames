@@ -64,4 +64,5 @@ opportunityratingcode_display,Opportunity Rating
 ownerid,Owner ID
 parentaccountid,Parent Account ID
 salesstage_display,Sales Stage
+statuscode_display,Status Code
 stepname,Step Name
