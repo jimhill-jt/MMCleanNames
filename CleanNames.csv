@@ -8,13 +8,15 @@ mm_franchiseid,Franchise ID
 name,Opportunity Name
 mm_accessoriesamount,Accessories
 mm_aeroamount,Aero
-mm_aerominiamount,Aeromini
-mm_alimaxxbamount,Alimaxxb
+mm_aerosizeramount,AeroSizer
+mm_aerominiamount,AeroMini
+mm_alimaxxesamount,AliMaxxes
 mm_amplatzamount,Amplatz
-mm_aronamount,Argon
+mm_argonamount,Argon
 mm_aspiraamount,Aspira
 mm_balamount,Bal
 mm_big60amount,Big60
+mm_biopsyamount,Biopsy
 mm_brightonamount,Brighton
 mm_bronchoscopykitamount,BronchoscopyKit
 mm_category1revenue,Category 1 Revenue
@@ -23,7 +25,7 @@ mm_commcodeid,Commcode ID
 mm_convertxamount,Convertx
 mm_drainageamount,Drainage
 mm_dualcapamount,Dualcap
-mm_dynamicsamount,Dynamics
+mm_dynamisamount,Dynamis
 mm_elation5amount,Elation5
 mm_elationgiamount,ElationGI
 mm_elationpulmamount,ElationPulm
@@ -37,7 +39,7 @@ mm_heroamount,Hero
 mm_peritonealdialysisamount,PeritonealDialisys
 mm_phdamount,PHD
 mm_piotheramount,PIOther
-mm_pitotalamount,PITotal
+mm_pitotal,PI Total
 mm_q50amount,Q50
 mm_radialsheathamount,RadialSheath
 mm_snaresamount,Snares
@@ -52,7 +54,7 @@ mm_vcfamount,VDF
 mm_vleconamount,VleCon
 mm_vledispamount,VleDisp
 mm_vleserviceamount,VleService
-mm_winprobablity_display,Win Probability
+mm_winprobability_display,Win Probability
 mm_wiresamount,Wires
 mm_worleyamount,Worley
 opportunityid,Opportunity ID
