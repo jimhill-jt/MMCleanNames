@@ -10,6 +10,7 @@ mm_accessoriesamount,Accessories
 mm_aeroamount,Aero
 mm_aerosizeramount,AeroSizer
 mm_aerominiamount,AeroMini
+mm_alimaxxbamount,AliMaxxb
 mm_alimaxxesamount,AliMaxxes
 mm_amplatzamount,Amplatz
 mm_argonamount,Argon
@@ -25,7 +26,7 @@ mm_commcodeid,Commcode ID
 mm_convertxamount,Convertx
 mm_drainageamount,Drainage
 mm_dualcapamount,Dualcap
-mm_dynamisamount,Dynamis
+mm_dynamicsamount,Dynamic
 mm_elation5amount,Elation5
 mm_elationgiamount,ElationGI
 mm_elationpulmamount,ElationPulm
