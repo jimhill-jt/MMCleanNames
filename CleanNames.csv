@@ -26,7 +26,8 @@ mm_commcodeid,Commcode ID
 mm_convertxamount,Convertx
 mm_drainageamount,Drainage
 mm_dualcapamount,Dualcap
-mm_dynamicsamount,Dynamic
+mm_dynamicsamount,Dynamics
+mm_dynamisamount,Dynamis
 mm_elation5amount,Elation5
 mm_elationgiamount,ElationGI
 mm_elationpulmamount,ElationPulm
