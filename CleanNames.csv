@@ -7,3 +7,57 @@ mm_accountnumber,Account Number
 mm_franchiseid,Franchise ID
 name,Opportunity Name
 mm_accessoriesamount,Accessories
+mm_aeroamount,Aero
+mm_aerominiamount,Aeromini
+mm_alimaxxbamount,Alimaxxb
+mm_amplatzamount,Amplatz
+mm_aronamount,Argon
+mm_aspiraamount,Aspira
+mm_balamount,Bal
+mm_big60amount,Big60
+mm_brightonamount,Brighton
+mm_bronchoscopykitamount,BronchoscopyKit
+mm_category1revenue,Category 1 Revenue
+mm_clariveinamount,Clarivein
+mm_commcodeid,Commcode ID
+mm_convertxamount,Convertx
+mm_drainageamount,Drainage
+mm_dualcapamount,Dualcap
+mm_dynamicsamount,Dynamics
+mm_elation5amount,Elation5
+mm_elationgiamount,ElationGI
+mm_elationpulmamount,ElationPulm
+mm_embodeliveryamount,EmboDelivery
+mm_embolicsamount,Embolics
+mm_endomaxxamount,Endomaxx
+mm_firstchoiceamount,FirstChoice
+mm_foundationamount,Foundation
+mm_heartspanamount,Heartspan
+mm_heroamount,Hero
+mm_peritonealdialysisamount,PeritonealDialisys
+mm_phdamount,PHD
+mm_piotheramount,PIOther
+mm_pitotalamount,PITotal
+mm_q50amount,Q50
+mm_radialsheathamount,RadialSheath
+mm_snaresamount,Snares
+mm_stage_display,Stage
+mm_staramount,Star
+mm_syncamount,Sync
+mm_tkitsamount,TKits
+mm_twisterplusgiamount,TwisterPlusGI
+mm_twisterpluspulmamount,TwisterPlusPulm
+mm_type_display,Type
+mm_vcfamount,VDF
+mm_vleconamount,VleCon
+mm_vledispamount,VleDisp
+mm_vleserviceamount,VleService
+mm_winprobablity_display,Win Probability
+mm_wiresamount,Wires
+mm_worleyamount,Worley
+opportunityid,Opportunity ID
+opportunityratingcode_display,Opportunity Rating
+ownerid,Owner ID
+parentaccountid,Parent Account ID
+salesstage_display,Sales Stage
+stepname,Step Name
