@@ -24,7 +24,7 @@ mm_brightonamount,Brighton
 mm_bronchoscopykitamount,BronchoscopyKit
 mm_category1revenue,Category 1 Revenue
 mm_categoryfluidamount,CategoryFluid
-mm_ciotheraamount,Ciothera
+mm_ciotheramount,CiOther
 mm_clariveinamount,Clarivein
 mm_commcodeid,Commcode ID
 mm_convertxamount,Convertx
@@ -52,6 +52,7 @@ mm_radialsheathamount,RadialSheath
 mm_snaresamount,Snares
 mm_stage_display,Stage
 mm_staramount,Star
+mm_surfaceramount,Surfacer
 mm_syncamount,Sync
 mm_tkitsamount,TKits
 mm_twisterplusgiamount,TwisterPlusGI
@@ -61,6 +62,7 @@ mm_vcfamount,VDF
 mm_vleconamount,VleCon
 mm_vledispamount,VleDisp
 mm_vleserviceamount,VleService
+mm_wrapamount,Wrap
 mm_winprobability_display,Win Probability
 mm_wiresamount,Wires
 mm_worleyamount,Worley
